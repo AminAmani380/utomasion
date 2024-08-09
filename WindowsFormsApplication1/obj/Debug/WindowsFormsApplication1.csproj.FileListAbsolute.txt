@@ -1,0 +1,13 @@
+E:\utomasion\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\utomasion\barnameh\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\utomasion\barnameh\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\utomasion\barnameh\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\utomasion\barnameh\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.dll
+G:\utomasion\barnameh\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.xml
+G:\utomasion\barnameh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Admin_panel.frm_mainAdmin.resources
+G:\utomasion\barnameh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_login.resources
+G:\utomasion\barnameh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\utomasion\barnameh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\utomasion\barnameh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\utomasion\barnameh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\utomasion\barnameh\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
